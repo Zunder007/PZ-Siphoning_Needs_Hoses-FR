@@ -1,0 +1,3 @@
+ContextMenu_FR = {
+	ContextMenu_NeedHose = "Un Tuyau en Caoutchouc est nécessaire pour Siphonner du Carburant",
+}
